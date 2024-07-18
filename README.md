@@ -3,11 +3,11 @@
 Hello, my name is John Koufopoulos, a passionate and dedicated data scientist with a strong foundation in statistical analysis, machine learning, and data visualization. My passion for extracting knowledge from intricate datasets and applying that knowledge to address pressing issues in society is what motivates me to pursue a career in data science.
 
 # Project in machine learning
-* Given an imdb dataset, extract infromation and discover various trends about movie genres and titles and users preferences
-* Utilize clustering algorithms such as Kmeans and DBSCAN
-* Utilize classifiers such as Naive Bayes and MLP, make comparrisons using various visualization tools and graphs, and reach into conlcusions
-* Clean, transform and join various datasets to achieve the desired results
-* Visualize the results using the seaborn and matplot library
+* Given an imdb dataset, extracted infromation and discovered various trends about movie genres and titles and users preferences
+* Utilized clustering algorithms such as Kmeans and DBSCAN
+* Utilized classifiers such as Naive Bayes and MLP, make comparrisons using various visualization tools and graphs, and reach into conlcusions
+* Cleaned, transformed and joined various datasets to achieve the desired results
+* Visualized the results using the seaborn and matplot library
 
 # Project in deep learning
 * Utilize deep learning methods and techniques to generate and analyse results regarding the CIC-IDS2017 dataset
@@ -21,8 +21,8 @@ Hello, my name is John Koufopoulos, a passionate and dedicated data scientist wi
 # Time series project
 * Utilize the M4 competition dataset (Makridakis, S., Spiliotis, E. and Assimakopoulos, V., 2020. The M4 Competition: 100,000 time series and 61 forecasting methods. International Journal of Forecasting, 36(1), pp.54-74.)
 * Given the above dataset, we generate prediction on montly, quarterly, and yearly time series
-* Utilize tensorflow.keras libraries to implement prediction models
-* Utilize traditional ARIMA and Naive bayes models
+* Utilized tensorflow.keras libraries to implement prediction models
+* Utilized traditional ARIMA and Naive bayes models
 * Future values are calculated using both the Point Intervals (PIs) and Point Forecasts (PFs) techniques
 
 # Vehicle routing problem
@@ -31,7 +31,7 @@ Hello, my name is John Koufopoulos, a passionate and dedicated data scientist wi
 
 # Steiners Tree Problem
 * We try to solve the steiners tree problem
-* Utilize pythons dictionaries to represent nodes and edges on the tree
+* Utilized pythons dictionaries to represent nodes and edges on the tree
 
 # Social Network Analysis
 * This assignment focuses on the algorithmic manipulation of the StackOver-ﬂow TemporalNetwork, whose description and related dataset may be found at (https://snap.stanford.edu/data/sx-stackoverflow.html)
