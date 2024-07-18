@@ -18,7 +18,7 @@ Hello, my name is John Koufopoulos, a passionate and dedicated data scientist wi
 * Unncovered patterns, and generated hypotheses.
 * Identified trends, correlations, and anomalies within the data.
 
-# Time series problem
+# Time series project
 * Utilize the M4 competition dataset (Makridakis, S., Spiliotis, E. and Assimakopoulos, V., 2020. The M4 Competition: 100,000 time series and 61 forecasting methods. International Journal of Forecasting, 36(1), pp.54-74.)
 * Given the above dataset, we generate prediction on montly, quarterly, and yearly time series
 * Utilize tensorflow.keras libraries to implement prediction models
