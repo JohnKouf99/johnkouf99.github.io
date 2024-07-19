@@ -1,6 +1,6 @@
 ---
 layout: post
 title: Time Series Project
-date: 2017-09-12 00:00:00 +0300
+date: 2024-07-20 00:00:00 +0300
 ---
 
