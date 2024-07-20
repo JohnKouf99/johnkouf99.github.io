@@ -14,4 +14,4 @@ date: 2024-07-20 00:00:00 +0300
 
 * Visualized the results using the seaborn and matplot library
 
-* Find the repository [here](www.google.com)
+* Find the repository [here](https://github.com/JohnKouf99/web-development)
