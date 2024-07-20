@@ -1,5 +1,5 @@
 
-# My portofolio
+# My portofolio (Under construction)
 Hello, my name is John Koufopoulos, a passionate and dedicated data scientist with a strong foundation in statistical analysis, machine learning, and data visualization. My passion for extracting knowledge from intricate datasets and applying that knowledge to address pressing issues in society is what motivates me to pursue a career in data science.
 
 # Project in machine learning
