@@ -448,7 +448,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/my_cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -456,13 +456,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("mailto:%6A%6F%68%6E%6B%6F%75%66%31%39%39%39@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-github',
@@ -484,6 +477,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0007-8592-0699", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=BKskhVwAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
