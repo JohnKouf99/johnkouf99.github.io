@@ -14,14 +14,14 @@ email: johnkouf1999@gmail.com # your email address
 custom_socials1:
   logo: /assets/img/github.svg
   title: GitHub
-  url: https://github.com/JohnKouf99
+  url: https://github.com
 
 custom_socials2:
   logo: /assets/img/linkedin.svg
   title: LinkedIn
-  url: https://www.linkedin.com/in/ioannis-koufopoulos-82005a27b/
+  url: https://www.linkedin.com/in
 
 custom_socials3:
   logo: /assets/img/orchid.svg
   title: Orchid-ID
-  url: https://orcid.org/0009-0007-8592-0699
+  url: https://orcid.org
