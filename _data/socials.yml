@@ -11,17 +11,17 @@ email: johnkouf1999@gmail.com # your email address
 # scholar_userid: BKskhVwAAAAJ&hl
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-github:
+custom_socials1:
   logo: /assets/img/github.svg
   title: GitHub
   url: https://github.com/JohnKouf99
 
-linkedin:
+custom_socials2:
   logo: /assets/img/linkedin.svg
   title: LinkedIn
   url: https://www.linkedin.com/in/ioannis-koufopoulos-82005a27b/
 
-orchid:
+custom_socials3:
   logo: /assets/img/orchid.svg
   title: Orchid-ID
   url: https://orcid.org/0009-0007-8592-0699
