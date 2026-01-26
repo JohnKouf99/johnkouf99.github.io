@@ -1,33 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-#cv_pdf: /assets/pdf/my_cv.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/my_cv.pdf # path to your CV PDF file
 email: johnkouf1999@gmail.com # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: false # comment this line to hide the RSS icon
-# github_username: JohnKouf99
-# linkedin_username: ioannis-koufopoulos-82005a27b
-# orcid_id: 0009-0007-8592-0699
-# scholar_userid: BKskhVwAAAAJ&hl
+github_username: JohnKouf99
+linkedin_username: ioannis-koufopoulos-82005a27b
+orcid_id: 0009-0007-8592-0699
+scholar_userid: BKskhVwAAAAJ&hl
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-
-github_username:
-  value: JohnKouf99
-  title: GitHub
-
-linkedin_username:
-  value: ioannis-koufopoulos-82005a27b
-  title: LinkedIn
-
-orcid_id:
-  value: 0009-0007-8592-0699
-  title: ORCID
-
-scholar_userid:
-  value: BKskhVwAAAAJ&hl
-  title: Google Scholar
-
-cv_pdf:
-  value: /assets/pdf/my_cv.pdf
-  title: CV
