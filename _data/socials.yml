@@ -5,9 +5,7 @@ cv_pdf: /assets/pdf/my_cv.pdf # path to your CV PDF file
 email: johnkouf1999@gmail.com # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: false # comment this line to hide the RSS icon
-github_username:
-  title: GitHub
-  url: https://github.com/JohnKouf99
+Github: JohnKouf99
 linkedin_username: ioannis-koufopoulos-82005a27b
 orcid_id: 0009-0007-8592-0699
 scholar_userid: BKskhVwAAAAJ&hl
