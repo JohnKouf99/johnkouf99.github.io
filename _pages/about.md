@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Athena Research & Innovation Center in Information Communication & Knowledge Technologies</p>
     <p>Aigialeias 19 &, Chalepa, Marousi 151 25</p>
-    
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,9 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is John Koufopoulos and I am a research associate at Athena RC. I hold a BSc in informatics, from [Athens University of Economic and Business](https://www.dept.aueb.gr/en/infotech-overview-en) and a MSc in Data Science, from  [University of Piraeus](https://cybersecdatasci.cs.unipi.gr).
+My name is John Koufopoulos and I am a research associate at Athena RC. I hold a BSc in informatics, from [Athens University of Economic and Business](https://www.dept.aueb.gr/en/infotech-overview-en) and a MSc in Data Science, from [University of Piraeus](https://cybersecdatasci.cs.unipi.gr).
 
 During my master's studies, I completed a Master’s Thesis titled [“Fact-checking with LLMs”](https://dione.lib.unipi.gr/xmlui/handle/unipi/16763), under the supervision of Dr. George Papastefanatos, focusing on web data harvesting, natural language processing, and text classification of false information in online sources.
 
 I am currenty working as a Research Associate at [Athena Research Center](https://www.athenarc.gr/en/home). I specialize in builing RAG pipelines, to aid in text classification tasks. I specialize in building and deploying large language model (LLM) pipelines for a variety of real-world tasks. My work includes the design of information retrieval systems such as Retrieval-Augmented Generation (RAG), GraphRAG, and web-based RAG pipelines, as well as automated summarization and fact-checking systems.
-
