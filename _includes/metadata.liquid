@@ -111,7 +111,7 @@
       {% when 'flickr_id' %}
         {% capture link %}https://www.flickr.com/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
-      {% when 'github_username' %}
+      {% when 'GitHub' %}
         {% capture link %}https://github.com/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'gitlab_username' %}
@@ -144,7 +144,7 @@
       {% when 'leetcode_id' %}
         {% capture link %}https://leetcode.com/u/{{ social[1] }}/{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
-      {% when 'linkedin_username' %}
+      {% when 'LinkedIn' %}
         {% capture link %}https://www.linkedin.com/in/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'mastodon_username' %}
@@ -153,7 +153,7 @@
       {% when 'medium_username' %}
         {% capture link %}https://medium.com/@{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
-      {% when 'orcid_id' %}
+      {% when 'Orcid-ID' %}
         {% capture link %}https://orcid.org/{{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'osf_id' %}
@@ -176,7 +176,7 @@
           {% capture link %}{{ site.baseurl }}/feed.xml{% endcapture %}
           {% assign sameaslinks = sameaslinks | push: link %}
         {% endcomment %}
-      {% when 'scholar_userid' %}
+      {% when 'Google_Scholar' %}
         {% capture link %}https://scholar.google.com/citations?user={{ social[1] }}{% endcapture %}
         {% assign sameaslinks = sameaslinks | push: link %}
       {% when 'scopus_id' %}
