@@ -2,26 +2,29 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-email: johnkouf1999@gmail.com.com # your email address
+email: johnkouf1999@gmail.com # your email address
 #inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: false # comment this line to hide the RSS icon
+github_username: JohnKouf99 
+linkedin_username: ioannis-koufopoulos-82005a27b
+orcid_id: 0009-0007-8592-0699
 #scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-github: 
-  logo: assets/img/github.svg 
-  title: GitHub
-  url: https://github.com/JohnKouf99
+# github: 
+#   logo: assets/img/github.svg 
+#   title: GitHub
+#   url: https://github.com/JohnKouf99
 
-linkedin: 
-  logo: assets/img/linkedin.svg 
-  title: LinkedIn
-  url: https://www.linkedin.com/in/ioannis-koufopoulos-82005a27b/
+# linkedin: 
+#   logo: assets/img/linkedin.svg 
+#   title: LinkedIn
+#   url: https://www.linkedin.com/in/ioannis-koufopoulos-82005a27b/
 
-orchid: 
-  logo: assets/img/orchid.svg 
-  title: Orchid-ID
-  url: https://orcid.org/0009-0007-8592-0699
+# orchid: 
+#   logo: assets/img/orchid.svg 
+#   title: Orchid-ID
+#   url: https://orcid.org/0009-0007-8592-0699
 
 
 
