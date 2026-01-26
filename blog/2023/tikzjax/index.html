@@ -3,15 +3,15 @@
   </script> <link defer rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css"> <script>
   document.addEventListener('DOMContentLoaded', function () {
     const titleMap = {
-      github_username: 'GitHub',
-      linkedin_username: 'LinkedIn',
-      scholar_userid: 'Google Scholar',
-      orcid_id: 'ORCID',
-      email: 'Email',
-      cv_pdf: 'CV',
+      'Cv pdf': 'CV',
+      Email: 'Email',
+      'Github username': 'GitHub',
+      'Linkedin username': 'LinkedIn',
+      'Orcid id': 'ORCID',
+      'Scholar userid': 'Google Scholar',
     };
 
-    document.querySelectorAll('.contact-icons a').forEach(function (link) {
+    document.querySelectorAll('.contact-icons a[title]').forEach(function (link) {
       const currentTitle = link.getAttribute('title');
       if (titleMap[currentTitle]) {
         link.setAttribute('title', titleMap[currentTitle]);

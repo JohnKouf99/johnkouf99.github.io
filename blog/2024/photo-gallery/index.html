@@ -3,15 +3,15 @@
   </script> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightbox2@2.11.5/dist/css/lightbox.min.css" integrity="sha256-uypRbsAiJcFInM/ndyI/JHpzNe6DtUNXaWEUWEPfMGo=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/photoswipe@5.4.4/dist/photoswipe.min.css" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/spotlight.js@0.7.8/dist/css/spotlight.min.css" integrity="sha256-Dsvkx8BU8ntk9Iv+4sCkgHRynYSQQFP6gJfBN5STFLY=" crossorigin="anonymous"> <link defer rel="stylesheet" href="https://cdn.jsdelivr.net/npm/venobox@2.1.8/dist/venobox.min.css" integrity="sha256-ohJEB0/WsBOdBD+gQO/MGfyJSbTUI8OOLbQGdkxD6Cg=" crossorigin="anonymous"> <script>
   document.addEventListener('DOMContentLoaded', function () {
     const titleMap = {
-      github_username: 'GitHub',
-      linkedin_username: 'LinkedIn',
-      scholar_userid: 'Google Scholar',
-      orcid_id: 'ORCID',
-      email: 'Email',
-      cv_pdf: 'CV',
+      'Cv pdf': 'CV',
+      Email: 'Email',
+      'Github username': 'GitHub',
+      'Linkedin username': 'LinkedIn',
+      'Orcid id': 'ORCID',
+      'Scholar userid': 'Google Scholar',
     };
 
-    document.querySelectorAll('.contact-icons a').forEach(function (link) {
+    document.querySelectorAll('.contact-icons a[title]').forEach(function (link) {
       const currentTitle = link.getAttribute('title');
       if (titleMap[currentTitle]) {
         link.setAttribute('title', titleMap[currentTitle]);
