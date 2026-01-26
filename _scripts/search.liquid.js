@@ -143,7 +143,7 @@ ninja.data = [
           {%- assign social_id = "social-flickr" -%}
           {%- assign social_title = "Flickr" -%}
           {%- capture social_url %}"https://www.flickr.com/{{ social[1] }}"{% endcapture -%}
-        {%- when "GitHub" -%}
+        {%- when "github_username" -%}
           {%- assign social_id = "social-github" -%}
           {%- assign social_title = "GitHub" -%}
           {%- capture social_url %}"https://github.com/{{ social[1] }}"{% endcapture -%}
@@ -187,7 +187,7 @@ ninja.data = [
           {%- assign social_id = "social-leetcode" -%}
           {%- assign social_title = "LeetCode" -%}
           {%- capture social_url %}"https://leetcode.com/u/{{ social[1] }}/"{% endcapture -%}
-        {%- when "LinkedIn" -%}
+        {%- when "linkedin_username" -%}
           {%- assign social_id = "social-linkedin" -%}
           {%- assign social_title = "LinkedIn" -%}
           {%- capture social_url %}"https://www.linkedin.com/in/{{ social[1] }}"{% endcapture -%}
@@ -199,7 +199,7 @@ ninja.data = [
           {%- assign social_id = "social-medium" -%}
           {%- assign social_title = "Medium" -%}
           {%- capture social_url %}"https://medium.com/@{{ social[1] }}"{% endcapture -%}
-        {%- when "Orcid-ID" -%}
+        {%- when "orcid_id" -%}
           {%- assign social_id = "social-orcid" -%}
           {%- assign social_title = "ORCID" -%}
           {%- capture social_url %}"https://orcid.org/{{ social[1] }}"{% endcapture -%}
@@ -227,7 +227,7 @@ ninja.data = [
           {%- assign social_id = "social-rss" -%}
           {%- assign social_title = "RSS Feed" -%}
           {%- capture social_url %}"{{ site.baseurl }}/feed.xml"{% endcapture -%}
-        {%- when "Google_Scholar" -%}
+        {%- when "scholar_userid" -%}
           {%- assign social_id = "social-scholar" -%}
           {%- assign social_title = "Google Scholar" -%}
           {%- capture social_url %}"https://scholar.google.com/citations?user={{ social[1] }}"{% endcapture -%}
